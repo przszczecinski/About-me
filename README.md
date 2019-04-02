@@ -1,6 +1,5 @@
-# hello-world
-This is my first repository.
+# About me
 
-I'm student of Mathematics in Information Sciences on Warsaw University of Technology. I'm interested in Data Science.
+I'm a student of Mathematics in Information Sciences at Warsaw University of Technology. I have obtained a bachelor's, the subject of my BA was Fuzzy Rough Sets.
 
-Just another line to check something.
+I find learning new technologies as interesting and challenging, so I spend my spare time on reading books and doing courses in Udemy platform.  
